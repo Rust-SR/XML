@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bug_report>
-<id>1111</id>
+<id>1111.2</id>
 <summary>login button dsnt work</summary>
 <description>after entering valid data login button cant be pressed</description>
 <expected_result>after entering valid data you can press login button</expected_result>
